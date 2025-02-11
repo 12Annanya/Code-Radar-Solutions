@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    char c[100];
-    scanf("%s",&c);
-    printf("ASCII Value: %d",c);
+    char c;
+    scanf("%c",&c);
+    printf("ASCII Value: %c",c);
     return 0;
 }
