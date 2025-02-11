@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     char A;
-    printf("Print the entered character.");
+    printf("A single character.");
     scanf("%c",&A);
     return 0;
 
