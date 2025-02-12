@@ -2,11 +2,10 @@
 
 int main(){
     int a,b;
-    if ((a<b) || (b<a))
-    {
-    printf("True");
+    if ((a<b) || (b<a)){
+    printf("False");
     }
     else{
-        printf("False");
+        printf("True");
     }
 }
