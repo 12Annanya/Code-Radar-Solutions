@@ -2,6 +2,6 @@
 int main(){
     int a[100],b[100];
     scanf("%s%s",&a,&b);
-    printf("You entered: %s\t%s",a,b);
+    printf("You entered: %s\t%s",a and b);
     return 0;
     }
