@@ -2,10 +2,10 @@
 int main(){
     int a,b;
     if(a>b){
-    printf("True");
+    printf("False");
     }
     else if(b>a){
-        printf("False");
+        printf("True");
     }
     else {
         printf("False");
