@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+#include<
 int main(){
     int a,b;
     if ((a<b) || (b<a))
