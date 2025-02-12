@@ -2,11 +2,11 @@
 int main(){
     int a,b;
     if(a>b){
-    print("True\n");
+    printf("True");
     }
     else
     {
-    print("False\n");
+    printf("False");
     }
     return 0;
 }
