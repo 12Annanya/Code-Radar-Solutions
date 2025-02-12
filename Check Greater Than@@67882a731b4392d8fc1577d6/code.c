@@ -4,8 +4,11 @@ int main(){
     if(a>b){
     printf("True");
     }
-    else{
+    elseif(b>a){
     printf("False");
+    }
+    else{
+        printf("False")
     }
     return 0;
 }
