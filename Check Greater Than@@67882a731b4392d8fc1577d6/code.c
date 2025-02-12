@@ -4,9 +4,6 @@ int main(){
     if(a>b){
     printf("True");
     }
-    else(b>a){
-    printf("False");
-    }
     else{
         printf("False")
     }
