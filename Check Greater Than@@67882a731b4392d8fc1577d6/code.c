@@ -2,8 +2,10 @@
 int main(){
     int a,b;
     if(a>b):{
-    print("True");}
+    print("True");
+    }
     else:{
-    print("False");}
+    print("False");
+    }
     return 0;
 }
