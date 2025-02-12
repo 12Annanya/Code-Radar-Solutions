@@ -4,7 +4,10 @@ int main(){
     if ((a<b) && (a>b)) {
     printf("True\n");
     }
-    else {
-        printf("False\n");
+    else if((b>a) && (b<a)) {
+        printf("True\n");
+    }
+    else{
+        printf("False");
     }
 }
