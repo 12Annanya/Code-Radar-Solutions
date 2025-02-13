@@ -6,7 +6,7 @@ int main(){
     if ((b=='a') || (b=='e') || (b=='i') || (b=='o') || (b=='u') || (b=='A') || ( b=='E') || (b=='I') || (b=='O') || (b=='U') ){
         printf("Vowel");
     }
-    else if(isalpha(ch)){
+    else if(isalpha(b)){
         printf("Consonant");
     }
     else if(is digit(b)){
