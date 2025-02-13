@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int a,b,c,d,f;
-    scanf("%d%d%d%d%d%d",&a,&b,&c,&d,&f);
+    scanf("%d%d%d%d%d",&a,&b,&c,&d,&f);
     if (a>=90){
         printf("A");
     }
