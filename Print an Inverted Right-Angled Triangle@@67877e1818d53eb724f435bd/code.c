@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    for(int i=N; i>=1 ; i=i-1){
+    for(int i=N; i>=1 ; i--){
         printf(I"*");
     }
     return 0;
