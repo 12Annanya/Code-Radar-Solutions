@@ -5,6 +5,6 @@ int main(){
     for(int i=1;i<=a;i++){
         multiply=multiply*i;
     }
-    printf("multiply");
+    printf("%d",multiply);
     return 0;
 }
