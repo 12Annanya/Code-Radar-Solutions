@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a;
+    int a,multiply;
     scanf("%d",&a);
     for(int i=1;i<=1;i++){
         multiply=multiply*i;
