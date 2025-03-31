@@ -15,5 +15,6 @@ int main(){
     scanf("%d",&n);
     int arr[n];
     scanf("%d",&arr[i]);
+    return 0;
    
 }
