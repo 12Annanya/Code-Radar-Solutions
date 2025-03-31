@@ -6,7 +6,6 @@ int main(){
         for(char j='A';j<=n+1-i;j++){
             printf("%c",j);
         }
-        printf("\n");
     }
     return 0;
 }
