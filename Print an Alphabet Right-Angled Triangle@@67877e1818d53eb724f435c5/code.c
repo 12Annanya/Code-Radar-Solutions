@@ -2,8 +2,8 @@
 int main(){
     int n;
     scanf("%c",&n);
-    for(char i=A;i<=n;i++){
-        for(char j=A;j<=i;j++){
+    for(char i=1;i<=n;i++){
+        for(char j=1;j<=i;j++){
             printf("%d",j);
         }
         printf("\n");
