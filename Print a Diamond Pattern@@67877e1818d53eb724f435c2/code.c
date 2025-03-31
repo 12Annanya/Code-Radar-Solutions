@@ -8,7 +8,7 @@ int main(){
             if(i==mid || j==mid)
             printf("*");
             else
-            printf("");
+            printf(" #");
         }
         printf("\n");
         }
