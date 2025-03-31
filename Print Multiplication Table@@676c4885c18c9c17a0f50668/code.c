@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main(){
-    int a,multiply=1;
-    scanf("%d",&a);
+    int n;
+    scanf("%d",&n);
     for(int i=1;i<=10;i++){
-        multiply=a*i;
-    
-    printf("%d\n",multiply);
+        if(n%i==0)
+        printf("%d",&i);
     }
     return 0;
 }
