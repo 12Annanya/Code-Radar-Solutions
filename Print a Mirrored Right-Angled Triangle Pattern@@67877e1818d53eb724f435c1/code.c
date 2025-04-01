@@ -8,6 +8,6 @@ int main(){
         }
         printf("\n");
     }
-    retutn 0;
+    return 0;
 
 }
